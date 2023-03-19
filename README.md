@@ -3,6 +3,18 @@
 - 🌱 I’m currently learning C#, HTML
 - 📫 How to reach me = Discord: touds#6555
 
+-------------------------------------------
+
+- 🌍 Countries I have visited:
+- Slovakia
+- Poland
+- Germany
+- Austria
+- Bulgaria
+- Croatia
+- France
+- Egypt 🇪🇬
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/699240084913913918)](https://discord.com/users/699240084913913918)
 
 <!---
