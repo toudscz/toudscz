@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @toudscz
 - 👀 I’m interested in Space 🪐
 - 🌱 I’m currently learning C#, HTML
-- 📫 How to reach me = Discord: touds#6555
+- 📫 How to reach me: Discord: touds#6555
 
 ---------------------
 
